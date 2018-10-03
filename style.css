@@ -87,3 +87,16 @@ i:hover{
 .fab{
   font-size: 70px;
 }
+
+.navbar{
+  margin-top: -80px;
+  margin-left: -10px;
+  background-color: rgba(240, 240, 240, 0.60);
+  position: fixed;
+  width: 10%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
